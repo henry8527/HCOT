@@ -1,9 +1,9 @@
-# Hierarchical Complement Objective Training
+# Learning with Hierarchical Complement Objective
 
 
 ## Overview
 
-This codebase focus on "Explicitly Hierarchy" implemented in "Hierarchical Complement Objective Training" for ICLR'2020 anonymized code submission. Since the codebase of "Latent Hierarchy" involved many details of Semantic Segmentation, We will summarize it as soon as possible and open another repo to present.
+This codebase focus on "Explicitly Hierarchy" implemented in "Learning with Hierarchical Complement Objective" for anonymized code submission. Since the codebase of "Latent Hierarchy" involved many details of Semantic Segmentation, We will summarize it as soon as possible and open another repo to present.
 
 
 
